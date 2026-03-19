@@ -9,3 +9,6 @@
 ## Mutation
 ### addCustomer
 <img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/0f224240-3936-4cc3-a05b-974d17edd02b" />
+
+## Order query
+<img width="1920" height="992" alt="image" src="https://github.com/user-attachments/assets/572fba94-5fd0-4a69-a0c6-5d9c6dfc3c25" />
